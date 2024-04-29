@@ -1,5 +1,5 @@
 # GPA-Predictor
-The GPA Predictor is a machine learning project that utilizes linear regression to predict students' Grade Point Averages (GPA) based on various predictive factors such as study hours, attendance rates, high school GPA, standardized test scores, and more.
+The GPA Predictor is a machine learning project that utilizes linear regression to predict students' Grade Point Averages (GPA) based on various predictive factors such as previous sem GPAs.
 
 Features
 Linear Regression Model: Uses a simple but effective linear regression approach.
